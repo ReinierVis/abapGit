@@ -1,0 +1,9 @@
+
+component_depth: 2
+
+languages:
+- name: abap
+  production:
+  test:
+    include:
+    - ".*test.*[.]abap"
