@@ -1,10 +1,9 @@
+exclude:
+- .*/changelog\.txt
 component_depth: 2
 languages: 
-- abap
+- name: abap
   production:
   test:
     include:
     - .*test.*abap
-
-exclude:
-- .*/changelog\.txt
