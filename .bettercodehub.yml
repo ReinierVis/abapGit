@@ -1,8 +1,10 @@
-- name: abap
+component_depth: 2
+languages: 
+- abap
   production:
   test:
     include:
     - .*test.*abap
-component_depth: 2
+
 exclude:
 - .*/changelog\.txt
