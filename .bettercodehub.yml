@@ -6,4 +6,4 @@ languages:
   production:
   test:
     include:
-    - ".*test.*[.]abap"
+    - ".*test.*abap"
