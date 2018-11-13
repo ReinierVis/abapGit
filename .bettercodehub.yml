@@ -1,4 +1,3 @@
-languages:
 - name: abap
   production:
   test:
